@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 하이염~
+### 하이염 👋
 
 <!--
 **minjae1025/minjae1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
