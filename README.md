@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 하이염 👋
+### Contact me : s2455@e-mirim.hs.kr 
 
 <!--
 **minjae1025/minjae1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
