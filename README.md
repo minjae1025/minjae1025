@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### Contact me : s2455@e-mirim.hs.kr 
+#### Contact me : s2455@e-mirim.hs.kr 
+#### My club : [JS Study](https://github.com/JS-Study-Club)
 
 <!--
 **minjae1025/minjae1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
