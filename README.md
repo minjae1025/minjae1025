@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### Contact me : s2455@e-mirim.hs.kr 
+#### Contact me : s2455@e-mirim.hs.kr
 #### My School : [Mirim Meister High School](https://e-mirim.hs.kr)
 #### My Club : [JS Study](https://github.com/JS-Study-Club)
 
